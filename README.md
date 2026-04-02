@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sridhar244/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sridhar244/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sridhar244/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0739-daily-temperatures](https://github.com/Sridhar244/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sridhar244/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/Sridhar244/75DaysLeetCodeChallenge/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Sridhar244/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0739-daily-temperatures](https://github.com/Sridhar244/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Sridhar244/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Sridhar244/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
